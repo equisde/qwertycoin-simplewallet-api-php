@@ -49,7 +49,7 @@ class Qwerty {
 	 * ID of request, you can put here whatever you want
 	 * (actually I don't now purpose of this field, maybe you find out it :D)
 	 */
-	const ID_CONN = "Y7h2LgDrBVh7wbSj";
+	const ID_CONN = "GHE2Hs5sjLjvw98g";
 
 	/**
 	 * Fee of transaction
